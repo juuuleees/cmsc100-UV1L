@@ -38,5 +38,3 @@ Remote Repositories (remotes): git remote add origin <insert repo url here>	// a
 See remote repos: git remote -v
 Push to master branch: git push origin master
 Push to remote branch: git push <remote> <branch>
-
-changes
