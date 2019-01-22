@@ -1,0 +1,2 @@
+To commit:
+	1. Track the files using 'git add -A' // add all files in all directories
