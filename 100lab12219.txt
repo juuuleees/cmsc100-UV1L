@@ -10,8 +10,16 @@ To set up user without changes being visible globally (useful for lab):
 
 Omitting '--global' will keep your name from being attached to someone else's commit.
 
-Workflow:
+Workflow (most basic):
 	
 	write changes to file >>> git add -A >> git commit -m "commit message" >> repeat
 
 Changes not staged for commit: repeat the same workflow
+~~~~
+
+Make new branch: git branch branch-name
+Switch branches: git checkout branch-name
+Shortcut for the previous two: git checkout -b new-branch-name
+See all branches: git branch
+
+
