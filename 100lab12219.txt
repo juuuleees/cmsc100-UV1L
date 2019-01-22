@@ -21,5 +21,3 @@ Make new branch: git branch branch-name
 Switch branches: git checkout branch-name
 Shortcut for the previous two: git checkout -b new-branch-name
 See all branches: git branch
-
-
