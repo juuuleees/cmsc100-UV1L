@@ -26,4 +26,6 @@ Merging: applying changes in one branch to another branch
 	   : source branch --> target branch
 
 Workflow: git checkout target-branch --> git merge source-branch
+~~~~
 
+Delete branch: git branch -d branch-name
