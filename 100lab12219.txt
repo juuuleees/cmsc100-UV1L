@@ -21,3 +21,6 @@ Make new branch: git branch branch-name
 Switch branches: git checkout branch-name
 Shortcut for the previous two: git checkout -b new-branch-name
 See all branches: git branch
+
+Merging: applying changes in one branch to another branch
+	   : source branch --> target branch
