@@ -1,2 +1,17 @@
 To commit:
 	1. Track the files using 'git add -A' // add all files in all directories
+	2. Commit using 'git commit -m "First commit"' // make meaningful commit messages
+
+Pag walang nakaset up na git user mage-error.
+
+To set up user without changes being visible globally (useful for lab):
+	git config user.email "jaruz@up.edu.ph"
+	git config user.name "Julianne Ruz"
+
+Omitting '--global' will keep your name from being attached to someone else's commit.
+
+Workflow:
+	
+	write changes to file >>> git add -A >> git commit -m "commit message" >> repeat
+
+Changes not staged for commit: repeat the same workflow
