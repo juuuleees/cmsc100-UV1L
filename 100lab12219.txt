@@ -33,4 +33,8 @@ Delete branch: git branch -d branch-name
 
 Cloning: git clone repo-from-your-account
 
-Remote Repositories: git remote add origin <insert repo url here>
+Remote Repositories (remotes): git remote add origin <insert repo url here>	// added the url as a remote repo and named it 'origin'
+
+See remote repos: git remote -v
+Push to master branch: git push origin master
+Push to remote branch: git push <remote> <branch>
