@@ -29,3 +29,8 @@ Workflow: git checkout target-branch --> git merge source-branch
 ~~~~
 
 Delete branch: git branch -d branch-name
+~~~~
+
+Cloning: git clone repo-from-your-account
+
+Remote Repositories: git remote add origin <insert repo url here>
